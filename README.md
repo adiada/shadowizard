@@ -7,7 +7,7 @@ Get perfect shadow for every non-designer.
 `npm i shadowizard --save`
 
 
-sh```
+```
 
 import {shadowizard} from 'shadowizard';
 
@@ -17,7 +17,6 @@ shadowizard({
 })
 
 ```
-
 ## 📑Options
 
 Shadowizard supports 2 options both of which are optional:
